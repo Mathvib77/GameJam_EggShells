@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: fa8d4c100bd782b46a9abfc376ca70be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1516498331858923892
+    second: caca_0
+  - first:
+      213: 1701321328412579105
+    second: caca_1
+  - first:
+      213: 2386773135508127391
+    second: caca_2
+  - first:
+      213: -7367182576079151934
+    second: caca_3
+  - first:
+      213: -2166417647751184352
+    second: caca_4
+  - first:
+      213: -3521195796142592067
+    second: caca_5
+  - first:
+      213: 790013134514284811
+    second: caca_6
+  - first:
+      213: 6225181698751036038
+    second: caca_7
+  - first:
+      213: -2712059465145805641
+    second: caca_8
+  - first:
+      213: 4696080048201424061
+    second: caca_9
+  - first:
+      213: -5492492531427437892
+    second: caca_10
+  - first:
+      213: -5584639462247284323
+    second: caca_11
+  - first:
+      213: -2804483818555673660
+    second: caca_12
+  - first:
+      213: -4195555052304004707
+    second: caca_13
+  - first:
+      213: -9081278010042864499
+    second: caca_14
+  - first:
+      213: -8447577268708062287
+    second: caca_15
+  - first:
+      213: -2802111388770663885
+    second: caca_16
+  - first:
+      213: -609090540288726970
+    second: caca_17
+  - first:
+      213: -3524484053166216818
+    second: caca_18
+  - first:
+      213: -1744649732516103018
+    second: caca_19
+  - first:
+      213: -2369041049290540820
+    second: caca_20
+  - first:
+      213: -5446324811198582213
+    second: caca_21
+  - first:
+      213: -7663202955930986411
+    second: caca_22
+  - first:
+      213: -8458127794129954879
+    second: caca_23
+  - first:
+      213: 1224295904885014665
+    second: caca_24
+  - first:
+      213: 6365638071214323093
+    second: caca_25
+  - first:
+      213: 4687852053959420596
+    second: caca_26
+  - first:
+      213: 2024711553273166908
+    second: caca_27
+  - first:
+      213: -9116231015255492580
+    second: caca_28
+  - first:
+      213: 7340630180654255342
+    second: caca_29
+  - first:
+      213: -7355092130479585895
+    second: caca_30
+  - first:
+      213: -176560005012555118
+    second: caca_31
+  - first:
+      213: 6007258604450765777
+    second: caca_32
+  - first:
+      213: 1800412496137146996
+    second: caca_33
+  - first:
+      213: -8204360166961954789
+    second: caca_34
+  - first:
+      213: -2228928740936315774
+    second: caca_35
+  - first:
+      213: 3013096031741862123
+    second: caca_36
+  - first:
+      213: -3386710462492716212
+    second: caca_37
+  - first:
+      213: -4167454966664708755
+    second: caca_38
+  - first:
+      213: -5640450004795036728
+    second: caca_39
+  - first:
+      213: -2039991889928428762
+    second: caca_40
+  - first:
+      213: 3050994856868695718
+    second: caca_41
+  - first:
+      213: 6608574096788260359
+    second: caca_42
+  - first:
+      213: -4996171690110858480
+    second: caca_43
+  - first:
+      213: -4937216351022361342
+    second: caca_44
+  - first:
+      213: 5803786427786430022
+    second: caca_45
+  - first:
+      213: 8125323663181098397
+    second: caca_46
+  - first:
+      213: 5301990086808713717
+    second: caca_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caca_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e831b4dc054fae0800000000000000
+      internalID: -1516498331858923892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d3d4fbbe4c9710800000000000000
+      internalID: 1701321328412579105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e386565858f1120800000000000000
+      internalID: 2386773135508127391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccda55ea7282c990800000000000000
+      internalID: -7367182576079151934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02047a6a0a65fe1e0800000000000000
+      internalID: -2166417647751184352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf625a5413322fc0800000000000000
+      internalID: -3521195796142592067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ed9a92c0b6fa00800000000000000
+      internalID: 790013134514284811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7158c5c9446650800000000000000
+      internalID: 6225181698751036038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b49f3a1944dc5ad0800000000000000
+      internalID: -2712059465145805641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc58d54ce3db2140800000000000000
+      internalID: 4696080048201424061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_10
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb218c4a42fb6c3b0800000000000000
+      internalID: -5492492531427437892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d914f1e6fff5f72b0800000000000000
+      internalID: -5584639462247284323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_12
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c378a863d87419d0800000000000000
+      internalID: -2804483818555673660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_13
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9903dfa8e466c5c0800000000000000
+      internalID: -4195555052304004707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_14
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c24d8b3c1d8f180800000000000000
+      internalID: -9081278010042864499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_15
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbcdf53b3d24ca80800000000000000
+      internalID: -8447577268708062287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328f33c986ec19d0800000000000000
+      internalID: -2802111388770663885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_17
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482a0671631c87f0800000000000000
+      internalID: -609090540288726970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_18
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89af7a5d64861fc0800000000000000
+      internalID: -3524484053166216818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_19
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cb5e3df42c9c7e0800000000000000
+      internalID: -1744649732516103018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_20
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8f7b6a7b97f1fd0800000000000000
+      internalID: -2369041049290540820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_21
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32bc19a074ca64b0800000000000000
+      internalID: -5446324811198582213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_22
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55892025385d6a590800000000000000
+      internalID: -7663202955930986411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_23
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c796069591be9a80800000000000000
+      internalID: -8458127794129954879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_24
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98003ae83a29df010800000000000000
+      internalID: 1224295904885014665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_25
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595be63691a475850800000000000000
+      internalID: 6365638071214323093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_26
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba26d31b989e0140800000000000000
+      internalID: 4687852053959420596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_27
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf9792e68391c10800000000000000
+      internalID: 2024711553273166908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_28
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c183c450134ac7180800000000000000
+      internalID: -9116231015255492580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_29
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8869c1482fd560800000000000000
+      internalID: 7340630180654255342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_30
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954e702da67de990800000000000000
+      internalID: -7355092130479585895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_31
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7fa36c9bbc8df0800000000000000
+      internalID: -176560005012555118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_32
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db52387fd11e5350800000000000000
+      internalID: 6007258604450765777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_33
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472dd6150a95cf810800000000000000
+      internalID: 1800412496137146996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_34
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b104ede85e1442e80800000000000000
+      internalID: -8204360166961954789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_35
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c05d69e114111e0800000000000000
+      internalID: -2228928740936315774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_36
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0ec1670eaa0d920800000000000000
+      internalID: 3013096031741862123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_37
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d50627ccfff0d0800000000000000
+      internalID: -3386710462492716212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_38
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d3386b9c93a26c0800000000000000
+      internalID: -4167454966664708755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_39
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb67d2ea9819b1b0800000000000000
+      internalID: -5640450004795036728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_40
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62363283f2e70b3e0800000000000000
+      internalID: -2039991889928428762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_41
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aec33f48af475a20800000000000000
+      internalID: 3050994856868695718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_42
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70689e6902f56bb50800000000000000
+      internalID: 6608574096788260359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_43
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b441691580aaab0800000000000000
+      internalID: -4996171690110858480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_44
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205df0223eb7b7bb0800000000000000
+      internalID: -4937216351022361342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_45
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646817c91013b8050800000000000000
+      internalID: 5803786427786430022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_46
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d2cf462d2f2c070800000000000000
+      internalID: 8125323663181098397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caca_47
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 19
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f930ee84e3749940800000000000000
+      internalID: 5301990086808713717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caca_0: -1516498331858923892
+      caca_1: 1701321328412579105
+      caca_10: -5492492531427437892
+      caca_11: -5584639462247284323
+      caca_12: -2804483818555673660
+      caca_13: -4195555052304004707
+      caca_14: -9081278010042864499
+      caca_15: -8447577268708062287
+      caca_16: -2802111388770663885
+      caca_17: -609090540288726970
+      caca_18: -3524484053166216818
+      caca_19: -1744649732516103018
+      caca_2: 2386773135508127391
+      caca_20: -2369041049290540820
+      caca_21: -5446324811198582213
+      caca_22: -7663202955930986411
+      caca_23: -8458127794129954879
+      caca_24: 1224295904885014665
+      caca_25: 6365638071214323093
+      caca_26: 4687852053959420596
+      caca_27: 2024711553273166908
+      caca_28: -9116231015255492580
+      caca_29: 7340630180654255342
+      caca_3: -7367182576079151934
+      caca_30: -7355092130479585895
+      caca_31: -176560005012555118
+      caca_32: 6007258604450765777
+      caca_33: 1800412496137146996
+      caca_34: -8204360166961954789
+      caca_35: -2228928740936315774
+      caca_36: 3013096031741862123
+      caca_37: -3386710462492716212
+      caca_38: -4167454966664708755
+      caca_39: -5640450004795036728
+      caca_4: -2166417647751184352
+      caca_40: -2039991889928428762
+      caca_41: 3050994856868695718
+      caca_42: 6608574096788260359
+      caca_43: -4996171690110858480
+      caca_44: -4937216351022361342
+      caca_45: 5803786427786430022
+      caca_46: 8125323663181098397
+      caca_47: 5301990086808713717
+      caca_5: -3521195796142592067
+      caca_6: 790013134514284811
+      caca_7: 6225181698751036038
+      caca_8: -2712059465145805641
+      caca_9: 4696080048201424061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
