@@ -1,11 +1,14 @@
 using UnityEngine;
 using TMPro;
-
-public class Timer : MonoBehaviour
+using Unity.VisualScripting;
+//langue française
+public class Timer : MonoBehaviour 
 {
     public float time;
     public TextMeshProUGUI timerText;
     private bool isRunning;
+
+    
 
     private void Start()
     {
@@ -16,16 +19,25 @@ public class Timer : MonoBehaviour
     {
         if (!isRunning) return;
         time += Time.deltaTime;
-
+         
         int minutes = (int)(time / 60);
         int Seconds = (int)(time % 60);
-        int tenths = (int)((time * 10) % 10);  
+        int tenths = (int)((time * 10) % 10); 
 
-        timerText.text = string.Format("{0:00}:{1:00}.{2}", minutes,Seconds, tenths);
+        timerText.text = string.Format("{0:00}:{1:00}.{2}", minutes, Seconds, tenths); 
+
+        if (GameObject.Find("_Chara") == null)  
+        {
+            isRunning = false;  
+        }
+
+
+
     }
-
-    public void StopTimer()
+    public void StopTimer() 
     {
         isRunning = false;
-    }
+        
+        
+    } 
 }
